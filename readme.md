@@ -39,7 +39,7 @@
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| [UI Design Daily](https://uidesigndaily.com/) target="_blank"                                            | Awesome UI Components of all types                                 |
+| [UI Design Daily](https://uidesigndaily.com/){:target="_blank"}                                          | Awesome UI Components of all types                                 |
 | [100 Daily UI](https://100dailyui.webflow.io/)                                                           | Free Figma library of products, elements, and screens              |
 | [Sketch App Sources](https://www.sketchappsources.com/)                                                  | Sketch UIs, wireframes, icons and much more                        |
 | [Humaaans](https://www.humaaans.com/)                                                                    | Cool illustrations of people with the ability to mix and match     |
